@@ -4,4 +4,5 @@ I created an interactive Excel dashboard to visualize key KPIs and business insi
 The dashboard covers orders, revenue, return rate, customer segments, products, and sales channels.  
 The analysis provides data-driven recommendations to reduce returns and improve business performance.
 
-![Uploading image.png…]()
+<img width="1762" height="861" alt="image" src="https://github.com/user-attachments/assets/5ddede94-ec8d-4e48-8e0e-fde14aead72f" />
+
